@@ -16,7 +16,7 @@ spec = Gem::Specification.new do |s|
   s.bindir = 'bin'
   s.executables << 'autosign'
   s.executables << 'autosign-validator'
-  s.add_development_dependency('rake', '~> 10')
+  s.add_development_dependency('rake', '~> 13')
   s.add_development_dependency('rdoc', '~> 4')
   s.add_development_dependency('aruba', '~> 0.6')
   s.add_development_dependency('cucumber', '~> 2')

@@ -68,7 +68,7 @@ GEM
       facter (> 1.6, < 3)
       hiera (~> 1.0)
       json_pure
-    rake (10.5.0)
+    rake (13.0.1)
     rdoc (4.3.0)
     require_all (1.5.0)
     rspec (3.9.0)
@@ -105,7 +105,7 @@ DEPENDENCIES
   cucumber (~> 2)
   pry (~> 0.10)
   puppet (~> 3)
-  rake (~> 10)
+  rake (~> 13)
   rdoc (~> 4)
   rspec (~> 3)
   yard (~> 0.9.11)
